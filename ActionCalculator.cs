@@ -22,7 +22,7 @@ namespace ActionCalculator
 
                 Calculator(callAdd+=callSubtract+=callProduct+=callDivide);
 
-        }
+            }
 
             static void Add(int firstNumber, int secondNumber)
             {
